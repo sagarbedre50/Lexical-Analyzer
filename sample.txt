@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<string.h>
+#include<ctype.h>
+int main()
+{
+    int num=12.9;
+    char ch='A';
+    int enum;
+    printf("%d",num);
+    printf("%d",sum[]);
+    printf("I am sagar");
+    return 0;
+}
